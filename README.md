@@ -9,4 +9,4 @@ In this statistics calculator project, I gained experience with handling user in
 ## Access this turtoial to do yourself!
 This tutorial is part of freeCodeCamps Javascript Algorithims and Data Sctructures Course
 
-[Free Code Camp Course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
+[freeCodeCamp Course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
